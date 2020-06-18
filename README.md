@@ -35,5 +35,5 @@ if you does not provide any argument timer will start with 25 min. and 5 min. fo
 * New build in functions
 * How to send desktop notification in python
 
-## Licence
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
