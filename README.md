@@ -1,7 +1,7 @@
 # Python Pomodoro
 Simple python implementation of pomodoro. In future will be added way more functionality.
 
-## Instalation
+## Installation
 
 1. Firstly install dependencies:
     ```bash
